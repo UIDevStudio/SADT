@@ -18,7 +18,8 @@
 
 | Версия | Статус | Описание обновления | Ссылка для скачивания |
 | :---: | :---: | :---: | :---: |
-| **v1.0** | Последнее обновление | [Релиз](https://github.com/UIDevStudio/SADT/releases/tag/terminal_v1.0) | [Скачать](https://github.com/UIDevStudio/SADT/releases/download/terminal_v1.0/GUI_Terminal.exe) |
+| **v1.1** | Последнее обновление | [Релиз](https://github.com/UIDevStudio/SADT/releases/tag/terminal_v1.1) | [Скачать](https://github.com/UIDevStudio/SADT/releases/download/terminal_v1.1/GUI_Terminal.exe) |
+| v1.0 | Последнее обновление | [Релиз](https://github.com/UIDevStudio/SADT/releases/tag/terminal_v1.0) | [Скачать](https://github.com/UIDevStudio/SADT/releases/download/terminal_v1.0/GUI_Terminal.exe) |
 
 Все актуальные и архивные версии доступны на [странице релизов](https://github.com/UIDevStudio/SADT/releases).
 
